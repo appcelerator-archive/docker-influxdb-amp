@@ -1,4 +1,4 @@
-FROM appcelerator/influxdb:influxdb-1.1.0-rc1
+FROM appcelerator/influxdb:influxdb-1.1.0-rc2
 ENV PRE_CREATE_DB telegraf
 ENV FORCE_HOSTNAME auto
 
