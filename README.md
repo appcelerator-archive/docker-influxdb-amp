@@ -26,4 +26,4 @@ Same as [base image](https://github.com/appcelerator/docker-influxdb)
 
 ## Tags
 
-- `1.1.2`, `latest`
+- `1.1.3`, `latest` (influxdb 1.1.1)

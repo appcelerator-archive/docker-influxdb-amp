@@ -7,7 +7,7 @@ services:
       dockerfile: Dockerfile
 
   telegraf:
-    image: appcelerator/telegraf:telegraf-1.0
+    image: appcelerator/telegraf:telegraf-1.1
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock:ro
       - /var/run/utmp:/var/run/utmp:ro
